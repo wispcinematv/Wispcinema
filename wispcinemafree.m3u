@@ -1,6 +1,12 @@
 #EXTM3U 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="TDT Colombia",Cosmovision
+https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="TDT Colombia",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Humor",Videos Chistosos 
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
