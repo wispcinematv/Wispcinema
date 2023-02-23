@@ -1,10 +1,22 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://c9b8m4u3.rocketcdn.me/wp-content/uploads/elementor/thumbs/Canal-Cosmovision-plu1fq49pfwhao3jvmay2xbfm360ag1a65hvlacibc.png" group-title="TDT Colombia",Cosmovision
-https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="TDT Colombia",Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/622/954/png-clipart-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle.png" group-title="TDT Colombia",RCN TV
+http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/1477.m3u8
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180720/ppt/kisspng-logo-caracol-televisin-global-and-local-televang-tv-logos-5b51cf249d2052.9016704415320881006436.jpg" group-title="TDT Colombia",Caracol TV
+http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/1476.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/La_Kalle_Colombia_logo.svg/640px-La_Kalle_Colombia_logo.svg.png" group-title="TDT Colombia",La Kalle
+http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/6768.m3u8
+#EXTINF:-1 tvg-logo="https://images.canal1.com.co/uploads/2017/08/logo-generico-programas-1.png" group-title="TDT Colombia",Canal 1
+http:/http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/6767.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleantioquia.co/wp-content/themes/teleantioquia/public/images/logo-teleantioquia-color.webp" group-title="TDT Colombia",Tele Antioquia
+http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/1478.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/LOGO-TELEPACIFICO.png/640px-LOGO-TELEPACIFICO.png" group-title="TDT Colombia",Tele Pacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://www.miradasdoc.com/mdoc2023/wp-content/uploads/2021/03/senal-colombia-logo.png" group-title="TDT Colombia",Señal Colombia
+http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/7507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-logo="https://www.cosmovision.tv/wp-content/uploads/elementor/thumbs/Canal-Cosmovision-plu1fq49pfwhao3jvmay2xbfm360ag1a65hvlacibc.png" group-title="TV-Colombia",Cosmovision
+http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/7509.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Humor",Videos Chistosos 
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
