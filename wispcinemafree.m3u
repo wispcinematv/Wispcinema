@@ -15,8 +15,6 @@ http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/1478.m3u8
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://www.miradasdoc.com/mdoc2023/wp-content/uploads/2021/03/senal-colombia-logo.png" group-title="TDT Colombia",Señal Colombia
 http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/7507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-logo="https://www.cosmovision.tv/wp-content/uploads/elementor/thumbs/Canal-Cosmovision-plu1fq49pfwhao3jvmay2xbfm360ag1a65hvlacibc.png" group-title="TV-Colombia",Cosmovision
-http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/7509.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-logo="https://www.cosmovision.tv/wp-content/uploads/elementor/thumbs/Canal-Cosmovision-plu1fq49pfwhao3jvmay2xbfm360ag1a65hvlacibc.png" group-title="TDT Colombia",Cosmovision
 http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/7509.m3u8
 
