@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/622/954/png-clipart-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle.png" group-title="TDT Colombia",RCN TV
 http://wispcinema.sytes.net:25461/live/canalesgratis/wispcinema/1477.m3u8
